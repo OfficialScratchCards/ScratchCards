@@ -1,2 +1,4 @@
 # ScratchCards
-The official websites of ScratchCards, a card system based off of Scratch Users
+Welcome to the official website of ScratchCards, a card system based off of FIFA (or EAFC) cards made for Scratchers, or people who are users on the popular block-based programming website, Scratch. I created this out of boredom, and I wanted to put my graphic design to the test. This is one of my biggest projects yet, and I am putting as much effort as I can into this. 
+
+The website has all of the details about what ScratchCards is, how it works, and some other stuff you need to know. This also has a link where you could run it on a page, and a download link in case you want to play offline. The download link is updated regularly to you have to make sure to replace the download you have with the updated one.
