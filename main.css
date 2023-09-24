@@ -11,7 +11,7 @@ html {
 html {
     font-size: 19px;
     font-family: "Inter var", sans-serif;
-    background-color: darkgray;
+    background-color: white;
 }
 
 .navbar-top {
@@ -20,13 +20,14 @@ html {
 }
 
 .navbar-top a {
+    background-color: rgb(26, 23, 23);
     float: right;
-  display: block;
-  color: #e6e5e5;
-  text-align: center;
-  padding: 14px 16px;
-  text-decoration: none;
-  font-size: 17px;
+    display: block;
+    color: #e6e5e5;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
 }
 
 .topnav a:hover {
@@ -35,8 +36,8 @@ html {
 }
 
 .topnav a.active {
-    background-color: #04AA6D;
-    color: white;
+    
+    color: green;
   }
 
   .topnav .icon {
