@@ -43,3 +43,7 @@ html {
   .topnav .icon {
     display: none;
   }
+
+.errorpage404 {
+    background-color: #171616;
+}
