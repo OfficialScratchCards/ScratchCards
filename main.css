@@ -45,6 +45,6 @@ html {
   }
 
   body .error-page {
-    background-image: url('');
-  background-repeat: no-repeat;
+    background-image: url('images/404 Page.svg');
+    background-repeat: no-repeat;
   }
