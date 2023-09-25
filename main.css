@@ -43,8 +43,3 @@ html {
   .topnav .icon {
     display: none;
   }
-
-  body .error-page {
-    background-image: url('images/404 Page.svg');
-    background-repeat: no-repeat;
-  }
