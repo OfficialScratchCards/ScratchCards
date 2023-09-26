@@ -7,5 +7,9 @@
 +       'secondary': '#ffed4a',
 +       'danger': '#e3342f',
       })
+
+      fontFamily: {
+        'inter': ['inter, sans-serif']
+      }
     }
   }
