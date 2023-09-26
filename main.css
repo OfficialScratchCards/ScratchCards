@@ -47,3 +47,10 @@ html {
 .errorpage {
     background-color: #171616;
 }
+
+h1 {
+    font-family: "Inter var", sans-serif;
+    text-align: center;
+    font-size: 45px;
+    padding: 12px;
+}
